@@ -1,0 +1,9 @@
+{
+  "name": "extended-underground-pipes",
+  "version": "1.0.0",
+  "title": "Extended Underground Pipes",
+  "author": "hgschmie",
+  "factorio_version": "2.0",
+  "description": "Extends the maximum distance of underground pipes by 1 tile.",
+  "dependencies": ["base >= 2.0"]
+}

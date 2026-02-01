@@ -1,0 +1,7 @@
+---------------------------------------------------------------------------------------------------
+Version: 1.0.0
+Date: 2026-01-31
+  Changes:
+    - Updated for Factorio 2.0
+    - Extended underground pipe reach by 1 tile (from 10 to 11)
+    - Added mod thumbnail
