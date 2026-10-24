@@ -5,5 +5,10 @@
   "author": "hgschmie",
   "factorio_version": "2.1",
   "description": "Extends the maximum distance of underground pipes by 1 tile.",
-  "dependencies": ["base >= 2.1.0"]
+  "dependencies": ["base >= 2.1.0"],
+  "package": {
+    "git_publish_branch": "main",
+    "readme": "README.md",
+    "sync_portal_details": true
+  }
 }
