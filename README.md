@@ -13,7 +13,7 @@ bodily fluids.
 
 ## Compatibility
 
-- Factorio version: 2.0+
+- Factorio version: 2.1
 - Dependencies: base mod only
 - Should be compatible with most other mods
 
